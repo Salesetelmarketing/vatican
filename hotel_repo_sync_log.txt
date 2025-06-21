@@ -1,4 +1,0 @@
-2025-06-20 10:00:48 RepoSync: Cloned repo.
-Cloning into '/var/www/vhosts/etelmarketing.com/httpdocs/vatican'...
-warning: You appear to have cloned an empty repository.
-
